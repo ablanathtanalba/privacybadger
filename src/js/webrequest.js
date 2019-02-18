@@ -24,6 +24,47 @@
 
 /* globals badger:false, log:false */
 
+
+
+
+
+
+/*
+////
+///////
+//////////
+/////////////
+      d8b            d8b                                                        
+      88P            88P                                    d8P                 
+     d88            d88                                  d888888P               
+ d888888   d888b8b  888  ?88   d8P       88bd88b  d8888b   ?88'   d8888b .d888b,
+d8P' ?88  d8P' ?88  ?88  d88   88        88P' ?8bd8P' ?88  88P   d8b_,dP ?8b,   
+88b  ,88b 88b  ,88b  88b ?8(  d88       d88   88P88b  d88  88b   88b       `?8b 
+`?88P'`88b`?88P'`88b  88b`?88P'?8b     d88'   88b`?8888P'  `?8b  `?888P'`?888P' 
+                                )88                                             
+                               ,d8P                                             
+                            `?888P'                                             
+
+
+It looks to me like all the functions up top are utilities leveraged in the startListeners function at the bottom of the file.
+
+////////////
+/////////
+//////
+////
+*/
+
+
+
+
+
+
+
+
+
+
+
+
 require.scopes.webrequest = (function() {
 
 /*********************** webrequest scope **/

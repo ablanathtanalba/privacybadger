@@ -35,6 +35,54 @@ var incognito = require("incognito");
 /**
 * privacy badger initializer
 */
+
+
+/*
+////
+///////
+//////////
+/////////////
+
+      d8b            d8b                                                        
+      88P            88P                                    d8P                 
+     d88            d88                                  d888888P               
+ d888888   d888b8b  888  ?88   d8P       88bd88b  d8888b   ?88'   d8888b .d888b,
+d8P' ?88  d8P' ?88  ?88  d88   88        88P' ?8bd8P' ?88  88P   d8b_,dP ?8b,   
+88b  ,88b 88b  ,88b  88b ?8(  d88       d88   88P88b  d88  88b   88b       `?8b 
+`?88P'`88b`?88P'`88b  88b`?88P'?8b     d88'   88b`?8888P'  `?8b  `?888P'`?888P' 
+                                )88                                             
+                               ,d8P                                             
+                            `?888P'                                             s
+
+ This seems to be the main entry point for the main functionality of PB.
+Like all the JS files, it's written in functional style.
+
+similar to many of the other files, it uses a confusing mixture of ES5 and ES6...
+
+This file is fat as fuck. So many methods and calls! Could it be cleaned up, made more elegant, refactored????
+
+Also, like a lot of the files, it uses surrogate keys above the functions:
+@param    {string}        somebody      -      somebody's name
+             ^               ^                       ^^^^^^
+        declare type       name                   description (optional)
+
+
+
+
+WebRTC is everywhere here and her's what that means (copied from their splash page docs):
+"WebRTC is a free, open project that provides browsers and mobile applications with Real-Time Communications capabilities via simple APIs."
+
+
+
+
+////////////
+/////////
+//////
+////
+*/
+
+
+
 function Badger() {
   var self = this;
 

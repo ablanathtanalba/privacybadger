@@ -17,6 +17,51 @@
 
 /* globals badger:false, log:false, URI:false */
 
+
+
+
+
+
+/*
+////
+///////
+//////////
+/////////////
+
+      d8b            d8b                                                        
+      88P            88P                                    d8P                 
+     d88            d88                                  d888888P               
+ d888888   d888b8b  888  ?88   d8P       88bd88b  d8888b   ?88'   d8888b .d888b,
+d8P' ?88  d8P' ?88  ?88  d88   88        88P' ?8bd8P' ?88  88P   d8b_,dP ?8b,   
+88b  ,88b 88b  ,88b  88b ?8(  d88       d88   88P88b  d88  88b   88b       `?8b 
+`?88P'`88b`?88P'`88b  88b`?88P'?8b     d88'   88b`?8888P'  `?8b  `?888P'`?888P' 
+                                )88                                             
+                               ,d8P                                             
+                            `?888P'                                             
+
+
+
+This is all that fancy brain work of blocking things by ~*learning*~
+
+There are a handful of TODO items in here -- worth looking into for optimization.
+
+Also a confusing mixture of ES5 and ES6. Classic for loops, vars, etc.
+
+Are all of these IIFE ?
+
+
+////////////
+/////////
+//////
+////
+*/
+
+
+
+
+
+
+
 var constants = require("constants");
 var utils = require("utils");
 var incognito = require("incognito");
