@@ -52,7 +52,7 @@ d8P' ?88  d8P' ?88  ?88  d88   88        88P' ?8bd8P' ?88  88P   d8b_,dP ?8b,
 `?88P'`88b`?88P'`88b  88b`?88P'?8b     d88'   88b`?8888P'  `?8b  `?888P'`?888P' 
                                 )88                                             
                                ,d8P                                             
-                            `?888P'                                             s
+                            `?888P'                                             
 
  This seems to be the main entry point for the main functionality of PB.
 Like all the JS files, it's written in functional style.
